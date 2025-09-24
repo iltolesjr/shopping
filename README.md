@@ -18,7 +18,9 @@ A command-line shopping price tracker that helps you manage your shopping list a
 3. Run the application:
 
 ```bash
-npm start
+npm start       # Interactive CLI interface
+npm run demo    # Quick demonstration
+npm test        # Run test suite
 ```
 
 ## Usage
