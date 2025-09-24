@@ -1,0 +1,19 @@
+{
+  "name": "shopping-price-tracker",
+  "version": "1.0.0",
+  "description": "A shopping price tracker that manages items and finds the best deals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "shopping",
+    "price-tracker",
+    "deals",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
